@@ -1,6 +1,6 @@
 # Mirror Max v1.0
 
-Cognitive Differential Engine — AI debate simulator to expose reasoning differences and converge on solutions.
+Cognitive Differential Engine — Bounces Prompt Between 2 Ai's.. solves for "Solution.txt" Desktop.
 
 ## Quick Start
 
